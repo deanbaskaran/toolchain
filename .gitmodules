@@ -1,3 +1,6 @@
 [submodule "webpack+babel+esnext/webpack-babel-esnext-toolchain-from-scratch-23-12-20"]
 	path = webpack+babel+esnext/webpack-babel-esnext-toolchain-from-scratch-23-12-20
 	url = git@github.com:deanbaskaran/webpack-babel-esnext-toolchain-from-scratch.git
+[submodule "webpack+react/react-toolchain-from-scratch-22-12-20"]
+	path = webpack+react/react-toolchain-from-scratch-22-12-20
+	url = git@github.com:deanbaskaran/react-toolchain-from-scratch.git
